@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @ilyawjarrahi
-- 👀 I’m interested in web develo
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ilyawjarrahi/ilyawjarrahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm currently learning Python and exploring the world of AI.  
+I’m a beginner, but always curious and eager to learn more.  
+Love working on different projects and experimenting with new ideas.  
+Let’s build cool stuff together 🚀
